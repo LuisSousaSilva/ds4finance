@@ -1,0 +1,9 @@
+README.md
+setup.py
+ds4finance/__init__.py
+ds4finance/functions.py
+ds4finance.egg-info/PKG-INFO
+ds4finance.egg-info/SOURCES.txt
+ds4finance.egg-info/dependency_links.txt
+ds4finance.egg-info/requires.txt
+ds4finance.egg-info/top_level.txt

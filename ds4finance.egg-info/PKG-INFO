@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ds4finance
-Version: 0.1.3
+Version: 0.1.14
 Summary: A collection of data science tools for finance
 Home-page: https://github.com/LuisSousaSilva/ds4finance
 Author: Luis Silva
@@ -70,5 +70,6 @@ Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown

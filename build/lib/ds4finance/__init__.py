@@ -1,1 +1,17 @@
+from .functions import compute_cagr  # noqa: F401
+from .functions import compute_drawdowns  # noqa: F401
+from .functions import compute_growth_index  # noqa: F401
+from .functions import compute_mar  # noqa: F401
+from .functions import compute_max_dd  # noqa: F401
+from .functions import compute_performance_table  # noqa: F401
+from .functions import compute_return  # noqa: F401
+from .functions import compute_sharpe  # noqa: F401
 from .functions import compute_std_dev  # noqa: F401
+from .functions import compute_time_period  # noqa: F401
+from .functions import compute_drawdowns_i  # noqa: F401
+from .functions import compute_drawdowns_periods  # noqa: F401
+from .functions import compute_max_drawdown_in_period  # noqa: F401
+from .functions import compute_drawdowns_min  # noqa: F401
+from .functions import compute_drawdowns_table  # noqa: F401
+from .functions import merge_time_series  # noqa: F401
+from .functions import ichart  # noqa: F401
